@@ -1,0 +1,16 @@
+{
+  "name": "ryanimals",
+  "version": "1.0.0",
+  "description": "nft generation project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@dicebear/avatars": "^4.8.6",
+    "@dicebear/open-peeps": "^4.8.6",
+    "rarepress": "^0.1.2"
+  }
+}
